@@ -1,3 +1,17 @@
+/**
+ * Criando um conta para cliente
+ * que contem nome cliente , saldo inicial , agencia , numero da conta
+ * metodos setts para alterar os atributos da classe
+ * um metodo getStatus para retornar as informações da conta criada
+ *
+ * @author Rafaela da silva Fernandes
+ * @version 1.0.0
+ * @since 05/06/2025
+
+ */
+
+
+
 public class ContaTerminal {
 
     int numeroConta = 0;
